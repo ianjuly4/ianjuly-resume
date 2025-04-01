@@ -1,6 +1,6 @@
 
 ## 👋 Hi there! I'm Ian July. 😄
-Feel free to check out my full GitHub resume!
+
 
 [GitHub](https://github.com/ianjuly4) | [LinkedIn](https://www.linkedin.com/in/ianjuly4) | [Medium](https://medium.com/@ianjuly4) | [Gmail](mailto:ianjuly4@gmail.com)
 
